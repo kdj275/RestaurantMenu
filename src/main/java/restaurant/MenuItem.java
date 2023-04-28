@@ -60,8 +60,8 @@ public class MenuItem {
     }
 
     // A way to determine whether or not two menu items are equal.
-    public boolean isEqual(MenuItem item) {
-    }
+//    public boolean isEqual(MenuItem item) {
+//    }
 
     // A way to tell if a menu item is new.
     public void isNewItem() {
